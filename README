@@ -1,17 +1,40 @@
-这是我第一次使用github 创建的一个测试文件,就当学习了
-
-开始的时候觉得git太烂了..提交一个文件需要 add commit push  好多次以后才能提交到最终服务器....而且多人协作,如果修改了同一个文件的同一个地方..
-假如说是一个类,, 会被分割的乱七八糟....让人崩溃....
-
-无数次要放弃git
-
-时间长了才发现...git确实是一个非常不错的版本控制工具..只是这个迁移过程,需要额外的学习成本相对很高....
-
-大家共同学习吧..git是个很优秀的工具..任何人开始,都会对他的使用繁琐 发出抱怨.
-
-确实是这样的
-
-我也买了一本权威指南....我只能说.这本书,虽然厚,很贵,但是内容不深入... 不能算得权威.. 它只是简单的介绍那些命令的常规用法和一些基本的排障手段,
-对于这个命令的相关用法几乎没提,甚至对于这些命令的其他参数都不说明,往往都是,照着书,上百度....
-但是因为她内容不全.也算不得参考手册..
-我觉得这本书之多就是个入门参考 被忽悠了..还那么贵....这本书说的..百度一下比他的详细的很多很多..
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Paths</name>
+    <description>Examples of paths. Note that the tessellate tag is by default
+      set to 0. If you want to create tessellated lines, they must be authored
+      (or edited) directly in KML.</description>
+    <Style id="yellowLineGreenPoly">
+      <LineStyle>
+        <color>7f00ffff</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7f00ff00</color>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>Absolute Extruded</name>
+      <description>Transparent green wall with yellow outlines</description>
+      <styleUrl>#yellowLineGreenPoly</styleUrl>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates> -112.2550785337791,36.07954952145647,2357
+          -112.2549277039738,36.08117083492122,2357
+          -112.2552505069063,36.08260761307279,2357
+          -112.2564540158376,36.08395660588506,2357
+          -112.2580238976449,36.08511401044813,2357
+          -112.2595218489022,36.08584355239394,2357
+          -112.2608216347552,36.08612634548589,2357
+          -112.262073428656,36.08626019085147,2357
+          -112.2633204928495,36.08621519860091,2357
+          -112.2644963846444,36.08627897945274,2357
+          -112.2656969554589,36.08649599090644,2357 
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>
