@@ -17,7 +17,7 @@
     <Placemark>
       <name>Absolute Extruded</name>
       <description>Transparent green wall with yellow outlines</description>
-      <styleUrl>#yellowLineGreenPoly</styleUrl>
+
       <LineString>
         <extrude>1</extrude>
         <tessellate>1</tessellate>
