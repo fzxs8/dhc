@@ -5,18 +5,9 @@
     <description>Examples of paths. Note that the tessellate tag is by default
       set to 0. If you want to create tessellated lines, they must be authored
       (or edited) directly in KML.</description>
-    <Style id="yellowLineGreenPoly">
-      <LineStyle>
-        <color>7f00ffff</color>
-        <width>4</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>7f00ff00</color>
-      </PolyStyle>
-    </Style>
-    <Placemark>
-      <name>Absolute Extruded</name>
-      <description>Transparent green wall with yellow outlines</description>
+     <Placemark>
+      <name>你好阿 这个是测试!!</name>
+      <description>这个是一个测试阿阿斯顿分阿斯顿分阿斯顿分</description>
 
       <LineString>
         <extrude>1</extrude>
