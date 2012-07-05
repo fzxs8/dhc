@@ -10,8 +10,6 @@
       <description>这个是一个测试阿阿斯顿分阿斯顿分阿斯顿分</description>
 
       <LineString>
-        <extrude>1</extrude>
-        <tessellate>1</tessellate>
         <altitudeMode>absolute</altitudeMode>
         <coordinates> -112.2550785337791,36.07954952145647,2357
           -112.2549277039738,36.08117083492122,2357
