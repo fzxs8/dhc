@@ -1,4 +1,32 @@
-<!--longitude, latitude, altitude -->
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Document>
+		<name>smartfleet</name>
+		<description>smartfleet</description>
+		<Style id="greenLine">
+			<LineStyle>
+				<color>ff009900</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="blueLine">
+			<LineStyle>
+				<color>ffff0000</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="redLine">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Placemark>
+			<styleUrl>#greenLine</styleUrl>
+			<name>greenLine</name>
+			<LineString>
+				<altitudeMode>relative</altitudeMode>
+				<coordinates><!--longitude, latitude, altitude -->
 -87.89289951324463,41.97881025520548,0
 -87.89184808731079,41.97788506340239,0
 -87.89150476455688,41.97762983571196,0
@@ -371,3 +399,8 @@
 -87.73803412914276,41.85206164224564,0
 -87.74552285671234,41.85189381866398,0
 -87.7565735578537,41.85182988575514,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+</kml>
