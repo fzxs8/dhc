@@ -1,5 +1,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
-  <Document>
+	<Document>
+		<name>smartfleet</name>
+		<description>smartfleet</description>
 		<Style id="greenLine">
 			<LineStyle>
 				<color>ff009900</color>
@@ -18,11 +20,12 @@
 				<width>4</width>
 			</LineStyle>
 		</Style>
-		<name>smartfleet</name>
-		<description>smartfleet</description>
 		<Placemark>
-			<styleId>greenLine</styleId>
+			<styleUrl>#greenLine</styleUrl>
 			<name>greenLine</name>
+			<LineString>
+				<altitudeMode>relative</altitudeMode>
+			</LineString>
 			<coordinates>121.540152,38.88747,0</coordinates>
 			<coordinates>121.540107,38.887428,0</coordinates>
 			<coordinates>121.540107,38.887428,0</coordinates>
