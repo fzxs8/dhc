@@ -10,8 +10,8 @@
       <refreshMode>onInterval</refreshMode>
       <refreshInterval>86400</refreshInterval>
       <viewBoundScale>0.75</viewBoundScale>
-      <gx:w>2000</gx:w>
-      <gx:h>2000</gx:h>
+      <gx:w>2</gx:w>
+      <gx:h>2</gx:h>
    </Icon>
    <LatLonBox>
       <north>37.83234</north>
