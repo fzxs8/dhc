@@ -20,13 +20,30 @@
 <width>4</width>
 </LineStyle>
 </Style>
+ <Style id="randomColorIcon">
+      <IconStyle>
+         <color>ff00ff00</color>
+         <colorMode>random</colorMode>
+         <scale>1.1</scale>
+         <Icon>
+            <href>http://maps.google.com/mapfiles/kml/pal3/icon21.png</href>
+         </Icon>
+      </IconStyle>
+   </Style>
 <Placemark>
-<styleUrl>#greenLine</styleUrl>
-<name>greenLine</name>
-<LineString>
-<altitudeMode>relative</altitudeMode>
-<coordinates>139.7613407,35.6620483,0 139.7614575,35.6618875,0</coordinates>
-</LineString>
-</Placemark>
+  <styleUrl>#greenLine</styleUrl>
+   <name>greenLine</name>
+    <LineString>
+    <altitudeMode>relative</altitudeMode>
+    <coordinates>139.7613407,35.6620483,0 139.7614575,35.6618875,0</coordinates>
+    </LineString>
+  </Placemark>
+<Placemark>
+      <name>IconStyle.kml</name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+         <coordinates>-122.36868,37.831145,0</coordinates>
+      </Point>
+   </Placemark>
 </Document>
 </kml>
