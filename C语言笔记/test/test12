@@ -13,6 +13,18 @@
       <gx:w>20</gx:w>
       <gx:h>20</gx:h>
    </Icon>
-
+ <LatLonBox>
+ 
+    <north>37.83234</north>
+ 
+    <south>37.83212</south>
+ 
+      <east>-122.37303</east>
+ 
+     <west>-122.37372</west>
+ 
+  <rotation>45</rotation>
+ 
+  </LatLonBox>
 </GroundOverlay>
 </kml>
