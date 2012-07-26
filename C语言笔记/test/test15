@@ -24,7 +24,7 @@
       <IconStyle>
          <color>ff00ff00</color>
          <colorMode>random</colorMode>
-         <scale>1.1</scale>
+         <scale>1.5</scale>
          <Icon>
             <href>http://maps.google.com/mapfiles/kml/pal3/icon21.png</href>
          </Icon>
@@ -42,7 +42,7 @@
       <name>IconStyle.kml</name>
       <styleUrl>#randomColorIcon</styleUrl>
       <Point>
-         <coordinates>-122.36868,37.831145,0</coordinates>
+         <coordinates>139.7614575,35.6618875,0</coordinates>
       </Point>
    </Placemark>
 </Document>
