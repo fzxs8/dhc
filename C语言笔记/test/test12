@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://www.opengis.net/kml/2.2">
+<kml xmlns="http://www.opengis.net/kml/2.2"
+ xmlns:gx="http://www.google.com/kml/ext/2.2">
 <GroundOverlay>
    <name>GroundOverlay.kml</name>
    <color>7fffffff</color>
@@ -9,6 +10,8 @@
       <refreshMode>onInterval</refreshMode>
       <refreshInterval>86400</refreshInterval>
       <viewBoundScale>0.75</viewBoundScale>
+      <gx:w>20</gx:w>
+      <gx:h>20</gx:h>
    </Icon>
    <LatLonBox>
       <north>37.83234</north>
