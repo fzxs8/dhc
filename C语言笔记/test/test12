@@ -11,7 +11,7 @@
    </Style>
    <Placemark>
       <name>IconStyle.kml</name>
-      <styleUrl>#randomColorIcon</styleUrl>
+
       <Point>
          <coordinates>-122.36868,37.831145,0</coordinates>
       </Point>
