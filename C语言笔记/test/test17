@@ -1,3 +1,4 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
 <kml xmlns="http://earth.google.com/kml/2.1">
 <Document>
 <name>smartfleet</name>
@@ -31,7 +32,7 @@
 </Style>
 <Placemark>
 <styleUrl>#ffff0000</styleUrl>
-<name>undefined</name>
+<name>11111</name>
 <LineString>
 <altitudeMode>relative</altitudeMode>
 <coordinates>
@@ -41,7 +42,7 @@
 </Placemark>
 <Placemark>
 <styleUrl>#user_pic</styleUrl>
-<name>undefined</name>
+<name>11111</name>
 <Point>
 <coordinates>139.76152735.6623740</coordinates>
 </Point>
