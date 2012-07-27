@@ -27,13 +27,7 @@ http://localhost:4000/imageLoad/fa861b50d79411e18aa74d2b84b87539/36a692a0d57d11e
 </IconStyle>
 </Style>
 <Placemark>
-<styleUrl>#start_pic</styleUrl>
-<name/>
-<Point>
-<coordinates>139.824736,35.645803,0</coordinates>
-</Point>
-</Placemark>
-<Placemark>
+
 <styleUrl>#FF7D0334</styleUrl>
 <name/>
 <LineString>
