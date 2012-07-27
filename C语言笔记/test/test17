@@ -1041,9 +1041,10 @@ http://210.228.164.201:4000/imageLoad/3bbdd470d7e311e1af54d54dd47f52e0/36a692a0d
 <Placemark>
 <Placemark>
 <name/>
-<Point>
+<Icon>
+
 <coordinates>139.824736,35.645803,0</coordinates>
-</Point>
+</Icon>
 </Placemark>
 <styleUrl>#user_pic</styleUrl>
 <name/>
