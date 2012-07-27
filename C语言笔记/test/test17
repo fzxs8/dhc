@@ -29,7 +29,6 @@ http://localhost:4000/imageLoad/fa861b50d79411e18aa74d2b84b87539/36a692a0d57d11e
 <Placemark>
 <styleUrl>#start_pic</styleUrl>
 <name/>
-<cls>icon</cls>
 <Point>
 <coordinates>139.824736,35.645803,0</coordinates>
 </Point>
@@ -2461,7 +2460,6 @@ http://localhost:4000/imageLoad/fa861b50d79411e18aa74d2b84b87539/36a692a0d57d11e
 <Placemark>
 <styleUrl>#user_pic</styleUrl>
 <name/>
-<cls>icon</cls>
 <Point>
 <coordinates>139.864329,35.855644,0</coordinates>
 </Point>
