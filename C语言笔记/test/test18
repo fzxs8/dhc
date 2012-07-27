@@ -1,0 +1,49 @@
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+<name>smartfleet</name>
+<description>smartfleet</description>
+<Style id="greenLine">
+<LineStyle>
+<color>ff009900</color>
+<width>4</width>
+</LineStyle>
+</Style>
+<Style id="blueLine">
+<LineStyle>
+<color>ffff0000</color>
+<width>4</width>
+</LineStyle>
+</Style>
+<Style id="redLine">
+<LineStyle>
+<color>ff0000ff</color>
+<width>4</width>
+</LineStyle>
+</Style>
+ <Style id="randomColorIcon">
+      <IconStyle>
+         
+         <colorMode>random</colorMode>
+         <scale>1.5</scale>
+         <Icon>
+            <href>http://nodejs.org/images/logo-light.png</href>
+         </Icon>
+      </IconStyle>
+   </Style>
+<Placemark>
+  <styleUrl>#greenLine</styleUrl>
+   <name>greenLine</name>
+    <LineString>
+    <altitudeMode>relative</altitudeMode>
+    <coordinates>139.7613407,35.6620483,0 139.7614575,35.6618875,0</coordinates>
+    </LineString>
+  </Placemark>
+<Placemark>
+      <name>IconStyle.kml</name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+         <coordinates>139.7614575,35.6618875,0</coordinates>
+      </Point>
+   </Placemark>
+</Document>
+</kml>
