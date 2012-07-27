@@ -18,14 +18,7 @@ http://localhost:4000/imageLoad/fa861b50d79411e18aa74d2b84b87539/36a692a0d57d11e
 </Icon>
 </IconStyle>
 </Style>
-<Style id="start_pic">
-<IconStyle>
-<colorMode>random</colorMode>
-<Icon>
-<href>http://localhost:4000/img/pointer.png</href>
-</Icon>
-</IconStyle>
-</Style>
+
 <Placemark>
 
 <styleUrl>#FF7D0334</styleUrl>
