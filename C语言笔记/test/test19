@@ -1,0 +1,19 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">  
+	<Folder>		
+		<name>roure</name>		
+		<visibility>0</visibility>		
+		<open>0</open>		
+		<description>location</description>		
+		<NetworkLink>			
+			<name>roure histroy</name>			
+			<visibility>0</visibility>			
+			<open>0</open>			
+			<description>location</description>			
+			<refreshVisibility>0</refreshVisibility>			
+			<flyToView>0</flyToView>			
+			<Link>				
+				<href>http://localhost:4000/kml/bf6284a0daeb11e1af93d36ed62ce4f7?user_id=4ec7035bd7ea11e189f9d94b135485eb&car_id=a8939fd0d58111e18b1163a0e637ac90&terminal_id=m1rehVUsezKfd2KboTkqNUouh3xi4XBZ&terminal_user_name=&start_date=1343726240000&end_date=1343726244000&type=0&color=AE51FB&user_pic=http%3A%2F%2Flocalhost%3A4000%2FimageLoad%2Fbf6284a0daeb11e1af93d36ed62ce4f7&start_pic=http%3A%2F%2Flocalhost%3A4000%2Fimg%2Fpointer.png</href>			
+			</Link>		
+		</NetworkLink>	
+	</Folder>
+</kml>
