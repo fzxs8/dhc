@@ -12,7 +12,7 @@
 			<refreshVisibility>0</refreshVisibility>			
 			<flyToView>0</flyToView>			
 			<Link>				
-				<href>http://localhost:4000/kml/bf6284a0daeb11e1af93d36ed62ce4f7?user_id=4ec7035bd7ea11e189f9d94b135485eb&car_id=a8939fd0d58111e18b1163a0e637ac90&terminal_id=m1rehVUsezKfd2KboTkqNUouh3xi4XBZ&terminal_user_name=&start_date=1343726240000&end_date=1343726244000&type=0&color=AE51FB&user_pic=http%3A%2F%2Flocalhost%3A4000%2FimageLoad%2Fbf6284a0daeb11e1af93d36ed62ce4f7&start_pic=http%3A%2F%2Flocalhost%3A4000%2Fimg%2Fpointer.png</href>			
+				<href>http://localhost:4000/kml/b9cd5f20da1811e19ca2cd73cf898b14?user_id=530ea4a0d56411e1be54e331b84a3286&car_id=88b9a820d56411e1be54e331b84a3286&terminal_id=Q4j2GfLI0GCYaw5K7GwWp5poILRHxEId&terminal_user_name=&start_date=1343693580000&end_date=1343697664000&type=0&color=FB5095&user_pic=http%3A%2F%2F210.228.164.201%3A4000%2FimageLoad%2Fb9cd5f20da1811e19ca2cd73cf898b14&start_pic=http%3A%2F%2F210.228.164.201%3A4000%2Fimg%2Fpointer.png</href>			
 			</Link>		
 		</NetworkLink>	
 	</Folder>
