@@ -3,7 +3,6 @@
 		
 	<Placemark>
 		<styleUrl>#FFFB5095</styleUrl>
-		<name/>
 		<LineString>
 			<altitudeMode>relative</altitudeMode>
 			<coordinates>
