@@ -5,6 +5,30 @@
 		<visibility>0</visibility>
 		<open>0</open>
 		<description>Network link example 2</description>
+		<Style id="FFFB5095">
+			<LineStyle>
+				<color>FFFB5095</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="user_pic">
+			<IconStyle>
+				<colorMode>random</colorMode>
+				<Icon>
+					<href>
+http://210.228.164.201:4000/imageLoad/b9cd5f20da1811e19ca2cd73cf898b14/530ea4a1d56411e1be54e331b84a3286
+					</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id="start_pic">
+			<IconStyle>
+				<colorMode>random</colorMode>
+				<Icon>
+					<href>http://210.228.164.201:4000/img/pointer.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
 		<NetworkLink>
 			<name>View Centered Placemark</name>
 			<visibility>0</visibility>
