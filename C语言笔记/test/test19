@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
-	<Folder>
-		<name>Network Links</name>
-		<visibility>0</visibility>
-		<open>0</open>
-		<description>Network link example 2</description>
+	<Document>
+		<name>smartfleet</name>
+		<description>smartfleet</description>
 		<Style id="FFFB5095">
 			<LineStyle>
 				<color>FFFB5095</color>
@@ -29,6 +27,14 @@ http://210.228.164.201:4000/imageLoad/b9cd5f20da1811e19ca2cd73cf898b14/530ea4a1d
 				</Icon>
 			</IconStyle>
 		</Style>
+	</Document>
+	
+	<Folder>
+		<name>Network Links</name>
+		<visibility>0</visibility>
+		<open>0</open>
+		<description>Network link example 2</description>
+	
 		<NetworkLink>
 			<name>View Centered Placemark</name>
 			<visibility>0</visibility>
@@ -38,7 +44,7 @@ http://210.228.164.201:4000/imageLoad/b9cd5f20da1811e19ca2cd73cf898b14/530ea4a1d
 			<refreshVisibility>0</refreshVisibility>
 			<flyToView>0</flyToView>
 			<Link>
-				<href>http://210.228.164.201:4000/kml/b9cd5f20da1811e19ca2cd73cf898b14?user_id=530ea4a0d56411e1be54e331b84a3286&car_id=88b9a820d56411e1be54e331b84a3286&terminal_id=Q4j2GfLI0GCYaw5K7GwWp5poILRHxEId&terminal_user_name=&start_date=1343693580000&end_date=1343697664000&type=0&color=FB5095&user_pic=http%3A%2F%2F210.228.164.201%3A4000%2FimageLoad%2Fb9cd5f20da1811e19ca2cd73cf898b14&start_pic=http%3A%2F%2F210.228.164.201%3A4000%2Fimg%2Fpointer.png</href>		
+				<href>https://raw.github.com/fzxs8/dhc/master/C%E8%AF%AD%E8%A8%80%E7%AC%94%E8%AE%B0/test/test18</href>		
 				<refreshInterval>2</refreshInterval>
 				<viewRefreshMode>onStop</viewRefreshMode>
 				<viewRefreshTime>1</viewRefreshTime>
